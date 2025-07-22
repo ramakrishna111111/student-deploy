@@ -4,6 +4,7 @@ import Courses from "./components/Courses";
 import Offerings from "./components/Offerings";
 import Registration from "./components/Registration";
 
+
 const App = () => {
   const [courses, setCourses] = useState([]);
   const [courseTypes, setCourseTypes] = useState([]);
