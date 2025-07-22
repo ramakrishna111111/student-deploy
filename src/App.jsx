@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import CourseType from "./components/CourseType";
 import Courses from "./components/Courses";
+import CourseType from "./components/CourseType";
 import Offerings from "./components/Offerings";
 import Registration from "./components/Registration";
 
